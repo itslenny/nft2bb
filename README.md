@@ -1,8 +1,8 @@
-# Beanie Baby2BB
+# NFT 2 BB
 
-<img src="https://github.com/itslenny/nft2bb/raw/main/assets/nft-2-bb-icon-512.png">
+A simple Chrome / Firefox extension that converts NFT to an easier to understand synonym: Beanie Baby.
 
-A simple Chrome / Firefox extension that converts Beanie Baby to an easier to understand synonym: Beanie Baby.
+<img src="https://github.com/itslenny/nft2bb/raw/main/assets/nft-2-bb-icon-128.png">
 
 ## Examples
 
